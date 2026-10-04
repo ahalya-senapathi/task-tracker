@@ -2,7 +2,7 @@
 
 A simple, fast to-do app built with **React**. Add tasks, tick them off, filter by status, and your list is saved in the browser, so it's still there when you come back.
 
-**Live demo:** https://YOUR-USERNAME.github.io/task-tracker/
+**Live demo:** https://ahalya-senapathi.github.io/task-tracker/
 
 ## Features
 
@@ -48,7 +48,7 @@ No installation or build step is needed.
 
 1. Clone or download this repository:
 ```bash
-   git clone https://github.com/YOUR-USERNAME/task-tracker.git
+   git clone https://github.com/ahalya-senapathi/task-tracker.git
 ```
 2. Open the folder and double-click `index.html` in your browser.
 
